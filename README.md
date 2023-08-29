@@ -1,16 +1,27 @@
-# meals_app
+# Meals App
 
-A new Flutter project.
+## Navigation & Multi-Screen App:
 
-## Getting Started
+- Managing Screen Stacks
+- Working with Tab Bars
+- Using Side Drawers
 
-This project is a starting point for a Flutter application.
+## Cross-Widget State Management:
 
-A few resources to get you started if this is your first Flutter project:
+- Using "Riverpod" Providers
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Animations:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Using Explicit & Implicit Animations
+- Building a Custom Animation
+- Using Built-in Animation Widget
+
+## 🛠 Skills
+Flutter, Dart, Riverpod, Animations
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## App Video:
+
+https://github.com/kursat-ozturk/meals_app/assets/69029656/1149ad1d-b110-41fc-a216-33479954adb6
+
